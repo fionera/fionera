@@ -12,6 +12,7 @@ From [Xeiaso](https://xeiaso.net/salary-transparency):
 
 | Company    | Title                      | Start Date | Salary       |
 |------------|----------------------------|------------|--------------|
+| Monogon SE | Archmage of Infrastructure | 01/03/2025 | 62.040€/year + On-Call ~24.000€/year |
 | Monogon SE | Archmage of Infrastructure | 01/03/2023 | 57.240€/year |
 | Babiel     | Systems Engineer           | 01/10/2021 | 57.204€/year |
 | Babiel     | Junior Systems Engineer    | 01/06/2020 | 50.400€/year |
